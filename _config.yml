@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Guide to the Materials Virtual Lab
-email: your-email@example.com
+title: Materials Virtual Lab Guide
+email: shyuep@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site provides a guide to the Materials Virtual Lab. It is meant to
-  serve as an onboarding document for newcomers, as well as for potential
-  recruits to understand the way we work.
+  This site provides a collaborative guide to the Materials Virtual Lab. It 
+  is meant to serve as an onboarding document for newcomers, as well as for
+  potential recruits to understand the way we work.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
 github_username:  materialsvirtuallab
 
 # Build settings
