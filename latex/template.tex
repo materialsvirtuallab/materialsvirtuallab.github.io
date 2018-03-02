@@ -1,0 +1,120 @@
+% The use of this template is recommended for all ACS journals, and most other journals. 
+% If the target journal has its own template, you may use that instead. 
+% Otherwise, make life easier for everyone and just stick to this one.
+% The main exception is when you are writing for an extremely high impact journal, in which case I may give you different instructions.
+
+\documentclass[manuscript=article]{achemso}
+
+% This makes sure that the references have titles. Which is a requirement in many journals and also useful for me to know if you have cited the proper literature.
+\setkeys{acs}{usetitle=true}
+
+% The following are the minimum packages you need. You can add others as needed, e.g., longtable.
+% The rule is that you keep external packages to a minimum. Do not import esoteric packages, which may cause problems with the journals. 
+\usepackage{subfigure}
+\usepackage{amsmath}
+\usepackage[version=3]{mhchem}
+
+% To remove in final draft. But this allows me to add comments easily. Make sure the trackchanges.sty is in the same folder.
+\usepackage[inline]{trackchanges}
+
+% If you have a supplementary information, uncomment the lines below. It will allow you to automatically cross-reference the SI.
+%\usepackage{xr}
+%\externaldocument{ESI}
+
+\title[Short title]{Good informative title}
+\author{Author 1}
+\affiliation[UCSD]{Department of NanoEngineering, University of California San Diego, 9500 Gilman Dr, Mail Code 0448, La Jolla, CA 92093-0448, United States}
+\author{Author 2}
+\affiliation[UCSD]{Department of NanoEngineering, University of California San Diego, 9500 Gilman Dr, Mail Code 0448, La Jolla, CA 92093-0448, United States}
+\author{Add authors as needed}
+\affiliation[UCSD]{Department of NanoEngineering, University of California San Diego, 9500 Gilman Dr, Mail Code 0448, La Jolla, CA 92093-0448, United States}
+\author{Shyue Ping Ong}
+\email{ongsp@eng.ucsd.edu}
+\affiliation[UCSD]{Department of NanoEngineering, University of California San Diego, 9500 Gilman Dr, Mail Code 0448, La Jolla, CA 92093-0448, United States}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Summarize your key results and why it is important and people should even read this paper.
+\end{abstract}
+
+\section{Introduction}
+
+Introduce the reader to the topic, why it is important, and how your work adds to the body of knowledge. This is where you establish credibility. If your introduction is not sufficient, people think you do not know what you are talking about. If your introduction is too long, people fall asleep. Strike a balance between relevant background, and convince the reader that you have something new to say about the topic.
+
+In the entire paper, make sure you follow these guidelines:
+\begin{itemize}
+\item All literature references must be done using the \textbackslash cite command or the \textbackslash citenum command when you need the reference to look like ``[1]''.
+\item All figures and tables should have proper captions, and be proper labeled using the \textbackslash label command with long \textbf{meaningful} names. Cross-referencing these figures in the text should be done using the \textbackslash ref command. Subfigures must be done using the subfigure package.
+\item All figures, especially graphs, should ideally be vector graphics format, e.g., eps, rather than raster images like jpg or png. If you have to use raster images, e.g., crystal structures, png is preferred over jpg and an extremely high resolution of at least 300 ppi should be used.
+\item All size specification should be done using fractions of the textwidth or linewidth. See example figure below. This allows the document to be reformatted easily as needed and the figures will automatically resize to fit.
+\item All figures must have large legible fonts. Note that the default line widths, marker sizes and fonts in most graphic software are usually unacceptably small. Remember that in papers, the editor is going to scale your graphic into a $<$ 5cm x 5cm in a typical two-column journal. Font sizes typically need to be $>$ 20 and lines need to be at least $>$ 3 weight.
+\item All chemical formulas can be easily done using the \textbackslash ce command. E.g., \ce{Li2O} from the mhchem package.
+\end{itemize}
+
+Proper scientific writing is expected. Refer to the Style Guide folder for some of the basics. In addition, these are my guidelines on proper writing style for papers:
+\begin{itemize}
+\item All statements about how you carried out the work should be in the past tense. Statements of truth, e.g., ``This shows this fundamental principle'', are in present tense. 
+\item Active, not passive voice.
+\item Third person, not first person.
+\item Sentences should be concise and with purpose. Do not add filler statements. Many novice writers equate quantity with quality. 
+\item I write and rewrite all my sentences at least three times to achieve the clarity of message that I want. If you are not doing so, the likelihood is that you are not thinking hard enough about what you want to say.
+\item Science writing is about \textbf{precision}. If a word is vague, it should be avoided or supplemented with a precise description. For example, ``Property X shows a relationship with feature Y'' is imprecise. What kind of relationship? Linear? Exponential? Inversely related? Instead, ``Property X shows a linear relationship with feature Y, with X = 0.5 Y + 0.1.'' is precise.
+\item Minimize the amount of thinking the reader has to do to interpret your results. For example, use the same units as far as possible, preferably those that are in common use in the field. That way, the reader does not have to convert between units to understand your work.
+\item Even extremely complex concepts can be written in a way that a reader can follow the general train of thought with just a little effort. Bad writing generally shows that the writer himself does not fully understand the concepts and is rambling his way through in the hope that no one notices his ignorance. You should know the specific topic better than anyone else, including me, since you have done the work. If I know the work better than you do, you probably should not be first author.
+\end{itemize}
+
+%Example of a figure is given below. Referencing is done as ``Figure \ref{fig:CrystalStructure} ...''.
+
+%\begin{figure}[htp]
+%\subfigure[\label{fig:CrystalStructure001}View along {[}001{]} direction]{\includegraphics[width=.45\textwidth]{filename}}
+%\quad
+%\subfigure[\label{fig:CrystalStructurePerspective}Perspective view]{\includegraphics[width=.45\textwidth]{Figure9b}}
+%\caption{\label{fig:CrystalStructure} Crystal structure of \ce{Li2O}.}
+%\end{figure}
+
+\section{Methods}
+
+Methods should be concise but descriptive enough that people know you have done your work right. But don't overburden the reader with too many details. 
+
+\section{Results}
+
+Results is where you present data. You need to structure this section with a proper logical flow. Start by writing your subsection headers so that you have an idea of how you want to present your results to the reader. Then add the appropriate figures and tables that best show the data that you want. Then write the text to guide the reader in understanding your data. 
+
+Note that the Results section should not overly discuss the data. Some minor form of discussion, such as comparison with previous works, is fine. But any substantial discussion should be in the Discussion section.
+
+\section{Discussion}
+
+This section is non-optional and you are not allowed to combine Results and Discussion. 
+
+The Discussion section is where you really go into the implications of your findings. What does your results mean for the field? Have you provided some fundamental insight into a scientific process? 
+
+A good Discussion section is the difference between a mediocre paper and an insightful article.
+
+\section{Conclusion}
+
+Complete your paper by summarizing your findings and the implications, i.e., a summary of your results and discussion.
+
+\begin{acknowledgement}
+
+This section needs to be added. Typically, it reads something like ``This work was supported by the U.S. Department of Energy, Office of Science, Basic Energy Sciences under Award DE- SCXXXXXX. A portion of the computations performed in this work also used the Extreme Science and Engineering Discovery Environment (XSEDE), which is supported by National Science Foundation grant number ACI-1053575.''.
+
+\end{acknowledgement}
+
+\begin{suppinfo}
+ 
+If you have supplementary information, most journals require you to briefly describe what's in the SI here. 
+
+\end{suppinfo}
+
+% This is where you add your references. Uncomment the line below and point it to your bibtex file.
+%\bibliography{refs}
+
+\clearpage
+
+\listoffigures
+
+\end{document}
