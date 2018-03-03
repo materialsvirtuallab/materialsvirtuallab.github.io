@@ -42,7 +42,7 @@ If we are providing input to an article led by another group, you should follow 
 # Templates and General Instructions
 
 1. Use journal-provided templates if available.
-2. If none are provided by the journal, two default templates (one for LaTeX and one for Word) have been provided in this repository. Do not use default templates provided by Word.
+2. If none are provided by the journal, two default templates (one for [LaTeX](/mavrl_latex_template.zip) and one for [Word](/mavrl_word_template.docx)) have been provided. Do not use default templates provided by Word.
 3. All section headers should be properly styled. In LaTeX, this involves the use of the \section, \subsection, etc. commands. In Word, this means formatting the section headers with the Heading 1, Heading 2, etc. styles.
 4. All figure/table captions and references should be cross-referenced. In Latex, this means you use the \ref\{\} command for figures and \cite\{\}, \citet\{\} or \citenum\{\} for references. In Word, this means you use the Insert Cross Reference command in referencing your figures in the text and Mendeley -> Insert citation for references. Learn to use these properly so that you do not spend unnecessary time renumbering figures and references during writing.
 
@@ -104,3 +104,10 @@ An academic paper generally comprises the following sections:
 ## Finalization
 
 In this last step, you proof-read the entire paper for spelling and grammatical errors, ensure that all figures, tables, captions, etc. conform to the target journal requirements. You also draft a Cover Letter for submission.
+
+# Recommended readings
+
+These are books/resources that are recommended for understanding our group's preferred writing style.
+
+* George Orwell's Essay on "Politics and the English language". Google for it.
+* William Strunk Jr.'s "The Elements of Style". You can find it on Amazon or the library. 
