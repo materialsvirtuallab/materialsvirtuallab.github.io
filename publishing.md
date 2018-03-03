@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Publishing
+layout: home
+title: publishing
 permalink: /publishing/
 ---
 
