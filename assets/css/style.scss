@@ -1,0 +1,39 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+input {
+    font-size: 1.8em;
+}
+
+.button {
+    background-color: #AF0011;
+    color: white;
+    padding: 7px 10px;
+    text-align: center;
+    text-shadow: rgba(0,0,0,0.4) 0 -1px 0;
+    text-decoration: none;
+    font-size: 1.2em;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#search-div {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+
+
+#search-results {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+h2.header {
+    color: white;
+    text-decoration: none;
+    border: none;
+}
