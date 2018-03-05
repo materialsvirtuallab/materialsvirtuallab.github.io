@@ -16,7 +16,7 @@ This page is to provide a step-by-step overview of how to work effectively in th
 
 # Step 1: Practices and procedures
 
-You should first read the [admin guide](admin) to understand expectations and policies with regards to working procedures.
+You should first read the [admin guide](/admin) to understand expectations and policies with regards to working procedures.
 
 Then, briefly read [publishing](/publishing) to get a very quick overview of the standards that are expected for papers and presentations. It is extremely important that you come back to this list when you write your papers and do your presentations. Under no circumstances should you submit papers or presentations that do not meet these minimum standards.
 
@@ -32,15 +32,15 @@ Our group allows you to buy a computer. It is highly encouraged that you use a M
 
 # Step 4: Setup your new Mac
 
-See Computing guide.
+See [computing guide](/computing).
 
 # Step 5: Setup your backup
 
-Contact the Backup Manager and set up Crashplan for your laptop. This should be the first thing you do after your initial Mac setup. See Computing guide.
+Contact the Backup Manager and set up Crashplan for your laptop. This should be the first thing you do after your initial Mac setup. See [computing guide](/computing).
 
 # Step 6: Setup accounts on Github, Dropbox, Mavrldb, Mavrldata, and clusters
 
-Contact the relevant group members (see Group jobs) to set up your accounts on Github (Software Manager), Dropbox (Backup Manager), mavrldb (DB Manager), and mavrldata (Data Manager), and our compute clusters (Cluster Manager). Read the Computing guide to understand what each of these does. Follow the instructions there to setup your cluster for computations.
+Contact the relevant group members (see Group jobs) to set up your accounts on Github (Software Manager), Dropbox (Backup Manager), mavrldb (DB Manager), and mavrldata (Data Manager), and our compute clusters (Cluster Manager). Read the [computing guide](/computing) to understand what each of these does. Follow the instructions there to setup your cluster for computations.
 
 # Step 7: Intra-group messaging, coordination and sharing
 
