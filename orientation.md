@@ -22,13 +22,13 @@ Then, briefly read [publishing](/publishing) to get a very quick overview of the
 
 # Step 2: Know your group members
 
-Check Group jobs page to find out the list of group jobs and the group members in charge.
+Check Group jobs page in Notion.so to find out the list of group jobs and the group members in charge.
 
 Enter your contact details into the Contact list. You should provide a cell number where you can be reached at all times. Rest assured that no one will use this unless it is absolutely urgent to contact you.
 
 # Step 3: Buy a computer
 
-Our group allows you to buy a computer. It is highly encouraged that you use a Mac laptop as it facilitates other group members helping you if you run into problems. Configurations should be reasonable - mid-range CPU and good RAM, a SSD (do not bother with non-SSD hard drives, even though they are cheaper). Send your proposed configuration for approval before purchase.
+For all newcomers, we offer you the opportunity to purchase a computer. It is highly encouraged that you use a Mac laptop as it facilitates other group members helping you if you run into problems. Configurations should be reasonable - mid-range CPU and good RAM, a SSD (do not bother with non-SSD hard drives, even though they are cheaper). Send your proposed configuration for approval before purchase.
 
 # Step 4: Setup your new Mac
 

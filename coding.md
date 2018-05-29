@@ -9,6 +9,7 @@ permalink: /coding/
 The MAVRL is primarily a computation-based group, and coding new materials analyses or automation is a large part of what we do. This page is dedicated to outlining our philosophy and the various tools that we use. The good news is that plenty of resources have already been developed and they can make doing research a lot easier.
 
 # Programming Languages
+
 Python is used extensively in the group. It is highly recommended that you become familiar with the language and the scientific packages available (numpy and scipy are the major ones).
 
 Matlab is also used, especially for generating publication quality plots and visualizations.
@@ -16,6 +17,7 @@ Matlab is also used, especially for generating publication quality plots and vis
 Other programming languages like Java, C or Fortran can be used if there are specific libraries available in those languages that are too much work to redo in Python, or if performance is of critical importance. It should be noted that properly vectorized calculations in numpy is often just as fast as in those in C or Fortran. If you need C or Fortran, it is further recommended that you use something like Cython, which provides an easier way to write C extensions and integrate into the existing Python code infrastructure in our group.
 
 # Coding Philosophy
+
 Unlike most other scientific groups, we place a great emphasis on developing proper software infrastructure. Proper software ensures that your scientific analyses is readily accessible to others both within and outside of the group, even years down the road. Investing the time to code properly brings benefits even in the medium term - so it is important that you do not sacrifice code clarity for short-term expediency. Here are some basic rules for developing good code:
 
 * Document properly. Documentation should be clear and concise. Ideally, your code should also be self-documenting, i.e., variable and function names should clearly indicate their purpose.
