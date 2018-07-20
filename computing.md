@@ -42,9 +42,9 @@ Afterwards, install [homebrew](http://brew.sh). This will make life a lot easier
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-## Step 4 - Install Python 3.6+
+## Step 4 - Install Python 3.7+
 
-Install the latest copy of Python > 3.6, even though your Mac should already have a compatible version. Python 3+ is mature enough that we are going to work with this from now on. Do the following:
+Install the latest copy of Python > 3.7, even though your Mac should already have a compatible version. Python 3+ is mature enough that we are going to work with this from now on. Do the following:
 
 ```shell
 conda update python
@@ -79,7 +79,7 @@ source activate my_env
 These must be installed first as they are needed to compile the other packages. Use the conda versions as these will have Intel MKL, which is faster.
 
 ```shell
-conda install --yes numpy scipy matplotlib jupyter git
+conda install --yes numpy scipy matplotlib jupyter git pandas sympy
 ```
 
 Start a new terminal before continuing.
