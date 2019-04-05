@@ -37,7 +37,7 @@ If we are providing input to an article led by another group, you should follow 
 # Software
 
 * LaTeX or Microsoft Word are the only acceptable choices for word processors. In general, LaTeX (via [ShareLatex](http://www.sharelatex.com) is preferred unless the target journal explicitly indicates Word is preferred. When in doubt, discuss with your advisor.
-* All references must be managed via Mendeley. A new shared collection/subfolder should be created for each paper. All co-authors should have access to this shared collection/folder. This shared collection/folder should contain all literature (with PDFs) relevant to the paper.
+* All references must be managed via Zotero together with the [Better Bibtex plugin](https://retorque.re/zotero-better-bibtex/). A new shared **private** group should be created for each paper. All co-authors should have access to this shared collection/folder. This shared collection/folder should contain all literature (with PDFs) relevant to the paper. 
 
 # Templates and General Instructions
 
