@@ -11,7 +11,7 @@ title: home
 This is a collaborative guide to the [Materials Virtual Lab](www.materialsvirtuallab.org). It is meant to serve as an onboarding document for newcomers, as well as for potential recruits to understand the way we work. New group members should start with the [orientation guide](/orientation).
 
 # Links
-[Leave of absence form](https://airtable.com/shrXVPLJbBSnMH6gN)
+<ul><li>[Leave of absence form](https://airtable.com/shrXVPLJbBSnMH6gN)</li></ul>
 
 # Guides
 
