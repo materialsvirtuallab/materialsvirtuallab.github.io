@@ -10,7 +10,13 @@ Group jobs are technically not directly related to individual research, but none
 
 As a MAVRL group member, you are expected to carry out your group job in a professional manner. That means you are held responsible for anything that happens in that area. It means that you do whatever is necessary to handle the day-to-day functions, and consult Shyue Ping if there are specific issues you cannot resolve. Shyue Ping will treat all non-performance in group jobs just as seriously as non-performance in research. 
 
-| Job name  | Responsibilities | Person in charge |
-| ------------- | ------------- |-------------
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Job name         | Responsibilities | Person in charge |
+| ---------------- | ---------------- |-------------
+| Cluster Manager  | Content Cell     |
+| Data Manager     | Content Cell     |
+| DB Manager       |
+| Backup Manager   |
+| Meeting Manager  |
+| Software Manager |
+| Web Manager      |
+| Morale Manager   |
