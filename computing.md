@@ -132,7 +132,7 @@ There should be no errors. Otherwise, you have not done setup correctly.
 
 An Integrated Development Environment (IDE) makes it easier for you to code and maintain good style, especially for Python. Note that for group members, it is highly recommended you use an IDE unless you believe yourself to be a superior Python coder to your adviser (and have the goods to prove it).
 
-Download the [community version fo Pycharm](http://www.jetbrains.com/pycharm) or install it via `brew cask install`.
+Download the [community version of Pycharm](http://www.jetbrains.com/pycharm) or install it via `brew cask install`.
 
 ```bash
 brew cask install pycharm-ce
