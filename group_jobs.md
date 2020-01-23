@@ -12,7 +12,8 @@ As a MAVRL group member, you are expected to carry out your group job in a profe
 
 |     Job name     | Responsibilities | Person in charge |
 | ---------------- | ---------------- | -------------
-| Cluster Manager  | Content Cell     | Mahdi and Ji
+| Cluster Manager  | Content Cell     | * Mahdi
+                                        * Ji
 | Data Manager     | Content Cell     | Hui
 | DB Manager       | Content Cell     | Weike
 | Backup Manager   | Content Cell     | Yiming
