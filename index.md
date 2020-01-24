@@ -29,8 +29,15 @@ This is a collaborative guide to the [Materials Virtual Lab](www.materialsvirtua
 </ul>
 
 # Resources
+{% assign default_paths = site.pages | map: "path" %}
+{% assign page_paths = site.header_pages | default: default_paths %}
 <ul>
-<li><a href="http://guide.materialsvirtuallab.org/group_jobs/">Group jobs</a></li>
+{% for path in page_paths %}
+  {% assign my_page = site.pages | where: "path", path | first %}
+  {% if my_page.category and my_page.category == "Resources" %}
+  <li><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+  {% endif %}
+{% endfor %}
 </ul>
 
 # Clusters

@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Group jobs
+category: Resources
 permalink: /group_jobs/
 ---
 
