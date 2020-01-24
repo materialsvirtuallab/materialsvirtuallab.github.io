@@ -1,6 +1,6 @@
 ---
 layout: home
-title: computing
+title: Computing
 permalink: /computing/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: admin
+title: Group admin
 permalink: /admin/
 ---
 

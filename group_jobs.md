@@ -1,5 +1,5 @@
 ---
-layout: resources
+layout: home
 title: Group jobs
 permalink: /group_jobs/
 ---

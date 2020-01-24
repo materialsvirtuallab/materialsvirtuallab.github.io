@@ -1,6 +1,6 @@
 ---
 layout: home
-title: orientation
+title: Orientation
 permalink: /orientation/
 ---
 
