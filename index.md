@@ -29,7 +29,9 @@ This is a collaborative guide to the [Materials Virtual Lab](www.materialsvirtua
 </ul>
 
 # Resources
-[Group jobs](http://guide.materialsvirtuallab.org/group_jobs/)
+<ul>
+<li><a href=http://guide.materialsvirtuallab.org/group_jobs/">Group jobs</a></li>
+</ul>
 
 # Clusters
 
