@@ -10,6 +10,8 @@ title: home
 
 This is a collaborative guide to the [Materials Virtual Lab](www.materialsvirtuallab.org). It is meant to serve as an onboarding document for newcomers, as well as for potential recruits to understand the way we work. New group members should start with the [orientation guide](/orientation).
 
+Please note that a lot of effort has been made by Shyue Ping as well as other MAVRL group members to make these resources here for your benefit. Make good use of them. In particular, all incoming students and postdocs should read at least the group admin pages to know Shyue Ping's expectations. The paper and presentation preparation guides are important as well. 
+
 # Links
 <ul>
 <li><a href="https://airtable.com/shrXVPLJbBSnMH6gN">Leave of absence form</a></li>
