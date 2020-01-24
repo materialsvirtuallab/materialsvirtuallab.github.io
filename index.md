@@ -13,6 +13,7 @@ This is a collaborative guide to the [Materials Virtual Lab](www.materialsvirtua
 # Links
 <ul>
 <li><a href="https://airtable.com/shrXVPLJbBSnMH6gN">Leave of absence form</a></li>
+<li><a href="https://calendar.google.com/calendar/render#main_7">Group Calendar</a></li>
 </ul>
 
 # Guides
