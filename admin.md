@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Group admin
+category: Guides
 permalink: /admin/
 ---
 

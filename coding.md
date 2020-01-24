@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Coding
+category: Guides
 permalink: /coding/
 ---
 

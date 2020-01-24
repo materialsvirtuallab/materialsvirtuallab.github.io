@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Orientation
+category: Guides
 permalink: /orientation/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Computing
+category: Guides
 permalink: /computing/
 ---
 

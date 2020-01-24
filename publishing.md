@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Publishing
+category: Guides
 permalink: /publishing/
 ---
 
