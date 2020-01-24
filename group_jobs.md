@@ -13,7 +13,7 @@ As a MAVRL group member, you are expected to carry out your group job in a profe
 
 |     Job name     | Responsibilities | Person in charge |
 | ---------------- | ---------------- | -------------
-| Cluster Manager  | - Purchases of new nodes<br>- Adding users to TSCC, XSEDE, NERSC, etc.<br>- Resolving problems (including VASP installation)<br>- Guide new users on usage of these resources<br>- Monitor resource usage.   | - Mahdi<br>- Ji
+| [Cluster Manager] (http://materialsvirtuallab.org/wiki/index.php?title=Cluster_Manager)  | - Purchases of new nodes<br>- Adding users to TSCC, XSEDE, NERSC, etc.<br>- Resolving problems (including VASP installation)<br>- Guide new users on usage of these resources<br>- Monitor resource usage.   | - Mahdi<br>- Ji
 | Data Manager     | - Manages mavarldata<br>- Monitors usage and backup<br>- Adding of new users<br>- Buy additional storage where necessary     | Hui
 | DB Manager       | - Manages mavarldb<br>- Monitors usage and backup<br>- Add new users<br>- Buy additional storage where necessary<br>- Create fireworks databases for new users     | Weike
 | Backup Manager   | - Manages Dropbox and Crashplan backup for all users.<br>- Ensure backup for database and file server systems.<br>- Guides new users in performing backups (note that each member is responsible for performing his own backup, except for the database, which will be backed up by the overall manager)     | Yiming
