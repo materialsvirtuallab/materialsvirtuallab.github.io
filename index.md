@@ -45,4 +45,6 @@ Please note that a lot of effort has been made by Shyue Ping as well as other MA
 
 # Clusters
 
+We have extensive resources at our own clusters at the Triton Shared Computing Service at SDSC, as well as national supercomputing resources on XSEDE and NERSC. 
+
 # Infrastructure
