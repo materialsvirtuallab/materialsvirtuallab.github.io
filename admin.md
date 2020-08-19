@@ -5,15 +5,26 @@ category: Guides
 permalink: /admin/
 ---
 
-# Office etiquette
+# English as the language of science
 
-* English is the language of international science and the language that is expected in all office conversations. You may use other languages for social interactions, but not for scientific discussions. It is to your benefit to practice conversing in English, whatever your comfort level is.
-* Though we are a computational group, and I understand the desire to work from home from time to time, please note that you are expected to be in office during typical office hours most of the time. A major part of research is being present for discussions with your adviser and group members, which may take place on an ad-hoc basis.
-* Doing a PhD is not just about research, but also about becoming a professional. That means professional standards of conduct applies. This means punctuality, properly managing the expectations of your adviser and colleagues, and delivering on your promises. If in doubt, consider what is acceptable in an future office environment with colleagues and bosses.
+English is the language of international science and the language that is expected in all office conversations. You may use other languages for social interactions, but not for scientific discussions. It is to your benefit to practice conversing in English, whatever your comfort level is.
+
+# Working from home
+
+**Important Note:** The current WFH policies have been suspended for now due to the Covid 19 crisis. Here are the guidelines until further notice:
+- Unless otherwise stated, all group and subgroup meetings will be held via Zoom.
+- Scheduling regular discussions among yourselves via Zoom is encouraged. Ad hoc discussions will take place via Slack as always.
+- Nevertheless, if there are meetings requiring in-person presence (e.g., meeting with funders, collaborators, etc.), you should still turn up. But please take all necessary precautions (e.g., masks, social distancing, etc.). This will be very rare (if ever).
+
+Though we are a computational group, and I understand the desire to work from home from time to time, please note that you are expected to be in office during typical office hours most of the time. A major part of research is being present for discussions with your adviser and group members, which may take place on an ad-hoc basis.
+
+# Professional conduct
+
+Doing a PhD is not just about research, but also about becoming a professional. That means professional standards of conduct applies. This means punctuality, properly managing the expectations of your adviser and colleagues, and delivering on your promises. If in doubt, consider what is acceptable in an future office environment with colleagues and bosses.
 
 # Vacation policy
 
-* All graduate students have officially two weeks of vacation per year, excluding US public holidays. However, this is negotiable depending on your research progress.
+* All graduate students have officially two weeks of vacation per year, excluding US public holidays. However, our group is extremely flexible with regards to this and outcomes are given a higher priority.
 * The first thing you need to do is the submit a request for vacation (even if it is for a day) to your adviser. **Do not make any travel arrangements before approval has been given**.
 * You are **not** expected to work while on vacation.
 * However, if you will be away for an extended period (e.g., for visa applications, etc.) exceeding reasonable vacation limits, you are expected to work while you are away. Under those circumstances, no excuses are accepted for work not being done. Examples of unacceptable excuses are a poor internet connection, jet lag, personal/social commitments, etc. The professional gets the job done, regardless of circumstances.

@@ -45,7 +45,7 @@ If we are providing input to an article led by another group, you should follow 
 1. Use journal-provided templates if available.
 2. If none are provided by the journal, two default templates (one for [LaTeX](/mavrl_latex_template.zip) and one for [Word](/mavrl_word_template.docx)) have been provided. Do not use default templates provided by Word.
 3. All section headers should be properly styled. In LaTeX, this involves the use of the \section, \subsection, etc. commands. In Word, this means formatting the section headers with the Heading 1, Heading 2, etc. styles.
-4. All figure/table captions and references should be cross-referenced. In Latex, this means you use the \ref\{\} command for figures and \cite\{\}, \citet\{\} or \citenum\{\} for references. In Word, this means you use the Insert Cross Reference command in referencing your figures in the text and Mendeley -> Insert citation for references. Learn to use these properly so that you do not spend unnecessary time renumbering figures and references during writing.
+4. All figure/table captions and references should be cross-referenced. In Latex, this means you use the \ref command for figures and \cite, \citet or \citenum for references. In Word, this means you use the Insert Cross Reference command in referencing your figures in the text and Mendeley -> Insert citation for references. Learn to use these properly so that you do not spend unnecessary time renumbering figures and references during writing.
 
 # Figures
 
@@ -78,23 +78,23 @@ The outline is the most important document in the whole writing process. Clearin
 ## Drafting
 
 Proper scientific writing is expected. In addition, these are my guidelines on proper writing style for papers:
-* Start by making sure spelling and grammar checking are enabled. If you are using Word, make sure the checks are on the fly. If you are using LaTeX, use an editor that does it for you (like ShareLatex). A draft that is riddled with preventable spelling and grammar errors shows that you did not care enough to make an effort.
+* Start by making sure spelling and grammar checking are enabled. If you are using Word, make sure the checks are on the fly. If you are using LaTeX, use an editor that does it for you (like Overleaf). A draft that is riddled with preventable spelling and grammar errors shows that you did not care enough to make an effort.
 * All statements about how you carried out the work should be in the past tense. Statements of truth, e.g., ```Figure X shows <this fundamental principle>```, are in present tense.
 * Active, not passive, voice is preferred.
 * Third person, not first person.
 * Sentences should be concise and with purpose. Do not add filler statements. Many novice writers equate quantity with quality.
 * I write and rewrite all my sentences at least three times to achieve the clarity of message that I want. If you are not doing so, the likelihood is that you are not thinking hard enough about what you want to say.
-* Scientific writing is about *precision*. If a word is vague, it should be avoided or supplemented with a precise description. For example, ```Property X shows a relationship with feature Y``` is imprecise. What kind of relationship? Linear? Exponential? Inversely related? Instead, ```Property X shows a linear relationship with feature Y, with X = 0.5 Y + 0.1.``` is precise.
+* Scientific writing is about *precision*. If a word is vague, it should be avoided or supplemented with a precise description. For example, *"Property X shows a relationship with feature Y"* is imprecise. What kind of relationship? Linear? Exponential? Inversely related? Instead, *"Property X shows a linear relationship with feature Y, with X = 0.5 Y + 0.1"* is precise.
 * Consistency helps the reader process your results. For example, use units that are in common use in the specific field/application as far as possible.
 * Even extremely complex concepts can be written in a way that a reader can follow the general train of thought with little effort. Bad writing generally shows that the writer himself does not fully understand the concepts and is rambling his way through in the hope that no one notices his ignorance. You should know the specific topic better than anyone else, including your advisor.
 * All drafts should be prepared with single column and at least a line spacing of 1. If you are using Latex, setting the document type to "preprint" usually does the trick.
 * All figures, tables and other floats should be inserted inline with the text close to where they are mentioned in the text. Do not bother with sizing and positioning your images to wrap around text while you are writing. The publishers do that for you.
 
-During the drafting process, I will make extensive use of tracked changes and comments (for LaTeX, this is done via ShareLatex's system). Note that it takes a lot more effort to use tracked changes than to just edit your article without them. I do it because I want you to learn from the changes that are being made.
+During the drafting process, I will make extensive use of tracked changes and comments (for LaTeX, this is done via Overleaf's system). Note that it takes a lot more effort to use tracked changes than to just edit your article without them. I do it because I want you to learn from the changes that are being made.
 
 An academic paper generally comprises the following sections:
 
-* **Abstract**. Highlight the key results and accomplishments of this work. This needs to be self-contained, such that if the reader can immediately decide if the rest of your article is deserving of further attention.
+* **Abstract**. Highlight the key results and accomplishments of this work. This needs to be self-contained, such that if the reader can immediately decide if the rest of your article is deserving of further attention. It is recommended you do not bother with the abstract first. This can be written when the manuscript is closer to its final form.
 * **Introduction**. Introduce the reader to the topic, why it is important, and how your work adds to the body of knowledge. This is where you establish credibility. If your introduction is not sufficient, readers think you do not know what you are talking about. If your introduction is too long, people lose interest before they get to your results. Strike a balance between relevant background and convincing the reader that you have something new to say about the topic.
 * **Methods**. Methods should be concise but descriptive enough for people to know that you have done your work correctly, as well as to reproduce your results. Methodology that has already been covered in previous literature should refer to the relevant works for details. Do not overburden the reader with too many details.
 * **Results**. Results is where you present data. You need to structure this section with a proper logical flow. Start by writing your subsection headers so that you have an idea of how you want to present your results to the reader. Then add the appropriate figures and tables that best show the data that you want. Then write the text to guide the reader in understanding your data.
