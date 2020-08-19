@@ -20,13 +20,29 @@ You will first need to download and install basic compilers:
 xcode-select --install
 ```
 
-## Step 2 - Git and Github
+## Step 2 - Install homebrew
+
+Install homebrew. This will make life a lot easier.
+
+```shell
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+Use homebrew to install a few key utilities.
+
+```shell
+brew install git coreutils gcc
+```
+
+It is recommended you reboot your computer after this step.
+
+## Step 3 - Git and Github
 
 Create a Github account if you do not have one. Then add your ssh key (in `$HOME/.ssh/id_rsa.pub`. If it does not exist, create one using the `ssh-keygen` command) to your Github account under settings.
 
 Follow the instructions on this page https://help.github.com/articles/set-up-git.
 
-## Step 3 - Install Miniconda
+## Step 4 - Install Miniconda
 
 Conda is a package manager that makes it a lot easier to work with different python versions and packages. After downloading the miniconda installer, run the following in a terminal in the directory where you downloaded the installer:
 
@@ -37,55 +53,27 @@ bash Miniconda3-latest-MacOSX-x86_64.sh -b
 
 Now, you should start a new terminal before proceeding.
 
-Afterwards, install [homebrew](http://brew.sh). This will make life a lot easier.
+## Step 5 - Create a Python 3.8 environment
+
+Conda provides the means for you to create isolated environments. It is useful if you are going to work with lots of python packages that may have incompatible dependencies. 
+
+To create a new Python >= 3.8 environment named ``mavrl'' in conda, do
 
 ```shell
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+conda create --name mavrl python numpy scipy matplotlib jupyter pandas sympy pymongo
 ```
 
-## Step 4 - Install Python 3.7+
-
-Install the latest copy of Python > 3.7, even though your Mac should already have a compatible version. Python 3+ is mature enough that we are going to work with this from now on. Do the following:
-
-```shell
-conda update python
-```
-
-Verify your python version by typing `python --version` in a terminal.
-
-## Step 5 (Optional) - Isolated environments
-
-Conda provides the means for you to create isolated environments. It is useful if you are going to work with lots of python packages that may have incompatible dependencies. If you are planning to work exclusively on Materials Virtual Lab stuff, you can skip this step.
-
-To create a new environment in conda, do
-
-```shell
-conda create -n my_env python
-```
-
-If you want to use python 2.7 for testing, type
-
-```shell
-conda create -n my_env python=2.7
-```
+This creates an environment that has the scientific python packages that you need installed as well. These are MKL versions.
 
 To go to that environment, just type:
 
 ```shell
-source activate my_env
+conda activate mavrl
 ```
 
-## Step 6 - Install numpy, scipy and other packages
+This should be your default environment for any work. If your environment gets corrupted, simply delete the mavrl environment and recreate a new environment.
 
-These must be installed first as they are needed to compile the other packages. Use the conda versions as these will have Intel MKL, which is faster.
-
-```shell
-conda install --yes numpy scipy matplotlib jupyter git pandas sympy
-```
-
-Start a new terminal before continuing.
-
-## Step 7: Clone and setup the relevant Github repos
+## Step 6: Clone and setup the relevant Github repos
 
 Before you setup the repos, it is generally advised that you keep all your repos in a single directory, e.g., $HOME/repos. Many of MAVRL's useful scripts assume this as the default location for your repos.
 
@@ -96,7 +84,7 @@ These are to be installed in developmental mode from source. You will be working
 ```shell
 git clone git@github.com:materialsproject/pymatgen.git
 cd pymatgen
-python setup.py develop
+pip install -e .
 ```
 
 Do the same for the pymatgen-db, custodian and fireworks repos.
@@ -108,10 +96,10 @@ To be installed in developmental mode from source. You will be working with this
 ```shell
 git clone git@github.com:materialsvirtuallab/pymacy.git
 cd pymacy
-python setup.py develop
+pip install -e .
 ```
 
-## Step 8: VASP Setup
+## Step 7: VASP Setup
 
 You need the VASP psuedopotential files in order to generate VASP input files. These are provided in the pymacy repo under resources.
 
@@ -129,7 +117,7 @@ python -c 'from pymatgen.io.vasp import Potcar; print(Potcar(["Li_sv", "O"]))'
 
 There should be no errors. Otherwise, you have not done setup correctly.
 
-## Step 9: IDE (Optional if you are good)
+## Step 8: IDE (Optional if you are good)
 
 An Integrated Development Environment (IDE) makes it easier for you to code and maintain good style, especially for Python. Note that for group members, it is highly recommended you use an IDE unless you believe yourself to be a superior Python coder to your adviser (and have the goods to prove it).
 
@@ -141,7 +129,7 @@ brew cask install pycharm-ce
 
 It is unlikely you need anything more than the community version.
 
-## Step 10: Familiarize yourselves with git, python and pymatgen
+## Step 9: Familiarize yourselves with git, python and pymatgen
 
 Learn how to commit and push changes with git. The model is that you should be creating branches for anything that you do, and you should *commit often*.
 
@@ -149,7 +137,7 @@ Pymatgen has extensive documentation at http://pymatgen.org. Read and learn to u
 
 Read the materialsvirtuallab Coding guidelines, and follow them strictly.
 
-## Step 11: Other recommended software
+## Step 10: Other recommended software
 
 Here are some recommended software. Most can be installed via homebrew via `brew install` or `brew cask install`.  Note that you can use `brew cask install` to install many GUI apps, including Google Chrome
 (google-chrome), Zoom (zoomus), etc. You can look for apps using `brew cask search`.
@@ -166,22 +154,13 @@ Here are some recommended software. Most can be installed via homebrew via `brew
   ```bash
   brew cask install alfred
   ```
-* Mendeley: Citation manager. This is not optional.
+* Zotero: Citation manager. This is not optional.
   ```bash
-  brew cask install mendeley-desktop
+  brew cask install zotero
   ```
 * VESTA: For viewing crystal structures.
   ```bash
   brew cask install vesta
-  ```
-* coreutils: GNU version of core utilities like ls, etc., which are more updated
-  than the version that Mac comes with.
-  ```bash
-  brew install coreutils
-  ```
-* tree: Directory exploration tool.
-  ```bash
-  brew install tree
   ```
 
 # Backup
