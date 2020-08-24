@@ -9,7 +9,7 @@ permalink: /publishing/
 
 This repository provides MAVRL's guidelines and templates for the writing of academic journal articles.
 
-# A little bit of sermonizing
+# What is good scientific writing?
 
 Before we begin, I should outline my philosophy and attitude towards the writing process. An academic article is the primary means through which you communicate your scientific results and ideas. The key to great scientific writing is logic flow, not language (though having a good command of English helps).
 
@@ -24,14 +24,15 @@ It has been my experience that good writing is correlated with scientific abilit
 These steps should be taken before any writing occurs:
 
 * Discuss target journal(s) with your co-authors (especially your advisor). Journal impact factor (IF) should be a distant secondary consideration to appropriateness of journal. Excellent research published in an appropriate, reasonable IF journal will be read and cited more than in an inappropriate, high IF journal.
-* Agree on an author list, especially who will be the first author(s) and corresponding author(s). Though this list may change as writing (and further research) progresses, early discussions help avoid disputes down the road.
+* Agree on an author list, especially who will be the first author(s) and corresponding author(s). Though this list may change as writing (and further research) progresses, early discussions help avoid disputes down the road. 
+* It should always be clear who is the lead first author, even if there are multiple co-first authors. Any disagreements on this front needs to be discussed with the advisor and any other collaborating groups before any writing is done. The lead first author seldom changes, barring some major change in the direction of the paper.
 * All co-authors are expected to contribute to the organization and drafting of an article. If your name appears anywhere on the author list, you should make sure this is an article that you will be proud to be associated with. Your responsibilities include both high-level input on content, interpretation of results, as well as more mundane things like proof-reading.
 * All language settings should be standard English. Ensure this is the case if you are using Word. Indeed, English should be the setting for your office computer regardless of what your native language is. Any non-English font appearing on any document/presentation is unacceptable in our group. If you wish to default to another language, you are welcome to do so with your personal machines, not your work machines.
 * Reading the literature as well as our group's papers are good ways of learning proper scientific writing style and article organization. It is what a professional would do.
 
 # Collaborative articles
 
-If our group is the lead for an article, the first author(s) will be responsible for coordinating all inputs from collaborators. This means not only getting the inputs in a timely fashion, but also editing those inputs into a consistent flow within the article. You should also feel free to request the inputs (e.g., text, references, figures, etc.) in the format that is desired by our group.
+If our group is the lead for an article, the first author will be responsible for coordinating all inputs from collaborators. This means not only getting the inputs in a timely fashion, but also editing those inputs into a consistent flow within the article. You should also feel free to request the inputs (e.g., text, references, figures, etc.) in the format that is desired by our group.
 
 If we are providing input to an article led by another group, you should follow the guidelines set by the lead author. All inputs should also conform to the same professional standards as all other articles in our group.
 
@@ -113,11 +114,13 @@ In this last step, you proof-read the entire paper for spelling and grammatical 
 ## Replying to reviewers
 
 In almost all cases, your article will be subject to at least one round of reviews, if not more. The overarching principle is that you must address *all* reviewer comments in one of three ways: 
-* Those that you agree with and you will make changes to address them (including any additional calculations/experiments as necessary), 
-* Those where the reviewer clearly misunderstood something, in which case you should think hard about whether there is additional text or data you can provide to clarify it, and 
-* Those that you disagree with (including things that are too difficult or expensive to do for the current work). 
+* Those that you agree with and you will make changes to address them (including any additional calculations/experiments as necessary).
+* Those where the reviewer clearly misunderstood something, in which case you should think hard about whether there is additional text or data you can provide to clarify.
+* Those that you disagree with, including things that are too difficult or expensive to do for the current scope of work. 
 
-Even in the latter case, you are expected to give a thoughful response to the reviewer. Under no circumstances are you allowed to ignore any comment. Follow the following procedures.
+Even in the latter case, you are expected to give a thoughful response to the reviewer. Under no circumstances are you allowed to ignore any comment. Be logical, avoid taking things personally and see every single comment, even unreasonable ones, as opportunities to improve your manuscript.
+
+Follow the following procedures.
 
 1. Create a Google doc titled "Response to Reviewers on *manuscript title*" and share it with your main co-authors and PIs.
 2. Copy ALL comments from the reviewers into the Google doc.
