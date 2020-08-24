@@ -71,7 +71,7 @@ All project or file names have to be intuitive. E.g., "Investigation of phenomen
 
 ## Preparing an outline
 
-An outline should be prepared prior to any writing. This outline should include:
+An outline (e.g., outline.tex in Overleaf, to distinguish it from the main manuscript) should be prepared prior to any writing. This outline should include:
 * The target journal and format (Letter/Full-length/Communication). Copy and paste the journal's formatting guidelines as an Appendix to the outline.
 * All section headers. Even if you are writing an article that does not require section headers (e.g. a short Letter or Communication), you should use "virtual" headers to organize the flow of your writing.
 * Bullet points for each section, especially the Results and Discussion sections.
@@ -119,7 +119,7 @@ In almost all cases, your article will be subject to at least one round of revie
 3. Section the comments in logical blocks for response. Note that this may mean you group multiple related comments from the same reviewer for response. Comments from different reviewers should not be grouped.
 4. For each logical block, write a **bullet point response** on how you are addressing the comments. This should be high-level strategy, not detailed responses. For example, you may indicate that you will perform Calculation A or Analysis B to fill in a gap. At this juncture, you do not need to have the actual data available unless you already have it.
 5. Unless it is a really straightforward response (which rarely happens), schedule a discussion with all main co-authors and the PIs to discuss the response stragegy.
-6. Once the discussion is done, implement the response strategy, including any writing out the rebuttal letter and edits to the manuscript. You may flesh out the response in the Google doc until close to the final form. Do not attempt to do this step unless steps 1-5 are done or unless it is a very trivial response (e.g., just correction of typos, simple clarifications, etc., which has happened < 0.1% of the time).
+6. Once the discussion is done, implement the response strategy, including any writing out the rebuttal letter and edits to the manuscript. You may flesh out the response in the Google doc until close to the final form. Do not attempt to do this step unless steps 1-5 are done or it is a very trivial response (e.g., just correction of typos, simple clarifications, etc., which has happened < 0.1% of the time).
 
 ## Proofing
 
