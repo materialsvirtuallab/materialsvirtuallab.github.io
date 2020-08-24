@@ -112,7 +112,12 @@ In this last step, you proof-read the entire paper for spelling and grammatical 
 
 ## Replying to reviewers
 
-In almost all cases, your article will be subject to at least one round of reviews, if not more. The overarching principle is that you must address *all* reviewer comments in one of three ways: (i) those that you agree with and you will make changes to address them (including any additional calculations/experiments as necessary), (ii) those where the reviewer clearly misunderstood something, in which case you should think hard about whether there is additional text or data you can provide to clarify it, and (c) those that you disagree with (including things that are too difficult or expensive to do for the current work). Even in the latter case, you are expected to give a thoughful response to the reviewer. Under no circumstances are you allowed to ignore any comment.
+In almost all cases, your article will be subject to at least one round of reviews, if not more. The overarching principle is that you must address *all* reviewer comments in one of three ways: 
+* Those that you agree with and you will make changes to address them (including any additional calculations/experiments as necessary), 
+* Those where the reviewer clearly misunderstood something, in which case you should think hard about whether there is additional text or data you can provide to clarify it, and 
+* Those that you disagree with (including things that are too difficult or expensive to do for the current work). 
+
+Even in the latter case, you are expected to give a thoughful response to the reviewer. Under no circumstances are you allowed to ignore any comment. Follow the following procedures.
 
 1. Create a Google doc titled "Response to Reviewers on *manuscript title*" and share it with your main co-authors and PIs.
 2. Copy ALL comments from the reviewers into the Google doc.
@@ -123,11 +128,11 @@ In almost all cases, your article will be subject to at least one round of revie
 
 ## Proofing
 
-After your paper is accepted, you will be asked to review the proofs before the final article is published. This is your chance to catch any errors. Here is a checklist of everything you need to check:
+After your paper is accepted, you will be asked to review the proofs before the final article is published. This is your last chance to catch any errors. Here is a checklist of everything you need to check:
 * Spelling and grammar. This will be the responsibility of not just the lead author, but also all co-authors.
 * All equations.
 * All figures.
-* Acknowledgements. Double check the funding acknowledgements one more time, especially the grant or award number. This is absolutely critical. If this is wrong, the work is effectively non-existent as far as the funder is concerned and you are putting your funding in jeopardy.
+* Acknowledgements. Double check the funding acknowledgements one more time, especially the grant or award number. This is absolutely critical. If this is wrong, the work is effectively non-existent as far as the funder is concerned and you are putting your funding in jeopardy. When in doubt, check with your advisor and his fund manager.
 
 # Recommended readings
 
