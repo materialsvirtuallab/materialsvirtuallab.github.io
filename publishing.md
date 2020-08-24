@@ -26,7 +26,7 @@ These steps should be taken before any writing occurs:
 * Discuss target journal(s) with your co-authors (especially your advisor). Journal impact factor (IF) should be a distant secondary consideration to appropriateness of journal. Excellent research published in an appropriate, reasonable IF journal will be read and cited more than in an inappropriate, high IF journal.
 * Agree on an author list, especially who will be the first author(s) and corresponding author(s). Though this list may change as writing (and further research) progresses, early discussions help avoid disputes down the road.
 * All co-authors are expected to contribute to the organization and drafting of an article. If your name appears anywhere on the author list, you should make sure this is an article that you will be proud to be associated with. Your responsibilities include both high-level input on content, interpretation of results, as well as more mundane things like proof-reading.
-* All language settings should be standard English. Ensure this is the case if you are using Word. Indeed, English should be the setting for your office computer regardless of what your native language is. Any non-English font appearing on any document/presentation is unacceptable in our group. If you wish to default to another language, you are welcome to do so with your personal computers.
+* All language settings should be standard English. Ensure this is the case if you are using Word. Indeed, English should be the setting for your office computer regardless of what your native language is. Any non-English font appearing on any document/presentation is unacceptable in our group. If you wish to default to another language, you are welcome to do so with your personal machines, not your work machines.
 * Reading the literature as well as our group's papers are good ways of learning proper scientific writing style and article organization. It is what a professional would do.
 
 # Collaborative articles
@@ -133,5 +133,5 @@ After your paper is accepted, you will be asked to review the proofs before the 
 
 These are books/resources that are recommended for understanding our group's preferred writing style.
 
-* George Orwell's Essay on "Politics and the English language". Google for it.
+* George Orwell's Essay on ["Politics and the English language"](https://www.orwell.ru/library/essays/politics/english/e_polit). 
 * William Strunk Jr.'s "The Elements of Style". You can find it on Amazon or the library. 
