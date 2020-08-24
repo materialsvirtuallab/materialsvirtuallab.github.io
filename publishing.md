@@ -38,8 +38,8 @@ If we are providing input to an article led by another group, you should follow 
 
 # Software
 
-* LaTeX or Microsoft Word are the only acceptable choices for word processors. In general, LaTeX (via [Overleaf](http://www.overleaf.com) is preferred unless the target journal explicitly indicates Word is preferred. When in doubt, discuss with your advisor.
-* All references must be managed via Zotero together with the [Better Bibtex plugin](https://retorque.re/zotero-better-bibtex/). A new shared **private** group should be created for each paper. All co-authors should have access to this shared collection/folder. This shared collection/folder should contain all literature (with PDFs) relevant to the paper. 
+* LaTeX or Microsoft Word are the only acceptable choices for word processors. In general, LaTeX via [Overleaf](http://www.overleaf.com) is preferred unless the target journal explicitly indicates Word is preferred. When in doubt, discuss with your advisor.
+* All references must be managed via Zotero together with the [Better Bibtex plugin](https://retorque.re/zotero-better-bibtex/). Use the default Better Bibtex format for citation keys. A new shared **private** group should be created for each paper. All co-authors should have access to this shared collection/folder. This shared collection/folder should contain all literature (with PDFs) relevant to the paper. 
 
 # Templates and General Instructions
 
@@ -78,7 +78,7 @@ An outline (e.g., outline.tex in Overleaf, to distinguish it from the main manus
 * Bullet points for each section, especially the Results and Discussion sections.
 * All figures that will be included in the article. Though the figures do not have to be publication-quality at this point, they must already be in reasonably good form that the key takeaways are clear. In particular, detailed observations and insights for each figure should be written out in bulleted form.
 
-The outline is the most important document in the whole writing process. Clearing a well-structured outline with your advisor saves significant effort in actual writing.
+The outline is the most important document in the whole writing process. Clearing a well-structured outline with your advisor saves significant effort in actual writing. Once your outline is written, share the Overleaf project transfer ownership to your advisor (this last step is necessary to enable tracked changes if you do not have a paid Overleaf account).
 
 ## Drafting
 
