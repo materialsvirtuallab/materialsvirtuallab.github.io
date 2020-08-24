@@ -43,7 +43,7 @@ If we are providing input to an article led by another group, you should follow 
 # Templates and General Instructions
 
 1. Use journal-provided templates if available.
-2. If none are provided by the journal, two default templates (one for [LaTeX](/mavrl_latex_template.zip) and one for [Word](/mavrl_word_template.docx)) have been provided. Do not use default templates provided by Word.
+2. If none are provided by the journal, two default templates (one for [LaTeX](/latex/template.tex) and one for [Word](/mavrl_word_template.docx)) have been provided. Do not use default templates provided by Word. If using Overleaf, copy the contents of the latex template provided and start writing your article from there.
 3. All section headers should be properly styled. In LaTeX, this involves the use of the \section, \subsection, etc. commands. In Word, this means formatting the section headers with the Heading 1, Heading 2, etc. styles.
 4. All figure/table captions and references should be cross-referenced. In Latex, this means you use the \ref command for figures and \cite, \citet or \citenum for references. In Word, this means you use the Insert Cross Reference command in referencing your figures in the text and Mendeley -> Insert citation for references. Learn to use these properly so that you do not spend unnecessary time renumbering figures and references during writing.
 
@@ -57,13 +57,17 @@ Plots and figures are typically the most important part of your article. Many re
 * Figures should be prepared in professional software such as matplotlib or matlab or Origin. Excel figures are generally extremely poor. But they can be acceptable in certain instances if you spend the time to make them look right.
 * Learn the basics of color matching. There are simply some colors that do not go together. [Colorbrewer](http://colorbrewer2.org/) is a good resource. Know the difference between color schemes for sequential vs diverging vs qualitative data, and choose schemes that works well for the kind of data you have.
 
-# Process overview
+# Writing process
 
 Writing a journal article comprises the following steps:
 
 1. Preparing an outline
 2. Drafting
 3. Finalizing
+
+Note that all these steps are done in the *same* Overleaf project if you are using Latex. Do not create multiple different projects for the outline, drafts, etc. 
+
+All project or file names have to be intuitive. E.g., "Investigation of phenomenon X using DFT" is a good project or file name. "Manuscript" is a crappy project or file name. 
 
 ## Preparing an outline
 
@@ -105,6 +109,25 @@ An academic paper generally comprises the following sections:
 ## Finalization
 
 In this last step, you proof-read the entire paper for spelling and grammatical errors, ensure that all figures, tables, captions, etc. conform to the target journal requirements. You also draft a Cover Letter for submission.
+
+## Replying to reviewers
+
+In almost all cases, your article will be subject to at least one round of reviews, if not more. The overarching principle is that you must address *all* reviewer comments in one of three ways: (i) those that you agree with and you will make changes to address them (including any additional calculations/experiments as necessary), (ii) those where the reviewer clearly misunderstood something, in which case you should think hard about whether there is additional text or data you can provide to clarify it, and (c) those that you disagree with (including things that are too difficult or expensive to do for the current work). Even in the latter case, you are expected to give a thoughful response to the reviewer. Under no circumstances are you allowed to ignore any comment.
+
+1. Create a Google doc titled "Response to Reviewers on <manuscript title>" and share it with your main co-authors and PIs.
+2. Copy ALL comments from the reviewers into the Google doc.
+3. Section the comments in logical blocks for response.
+4. For each of the logical blocks, write a bullet point response on how you are addressing the comments. This should be highly level strategy, not detailed responses. For example, you may indicate that you will perform Calculation A or Analysis B to fill in a gap. At this juncture, you do not need to have the actual data available unless you already have it. 
+5. Unless it is a really straightforward response (which rarely happens), schedule a discussion with all main co-authors and the PIs to discuss the response stragegy.
+6. Once the discussion is done, implement the response strategy, including any edits to the manuscript. You may flesh out the response in the Google doc until  Do not attempt to do this step unless steps 1-5 are done or unless it is a very trivial response (e.g., just correction of typos, simple clarifications, etc., which has happened < 0.1% of the time).
+
+## Proofing
+
+After your paper is accepted, you will be asked to review the proofs before the final article is published. This is your chance to catch any errors. Here is a checklist of everything you need to check:
+* Spelling and grammar. This will be the responsibility of not just the lead author, but also all co-authors.
+* All equations.
+* All figures.
+* Acknowledgements. Double check the funding acknowledgements one more time, especially the grant or award number. This is absolutely critical. If this is wrong, the work is effectively non-existent as far as the funder is concerned and you are putting your funding in jeopardy.
 
 # Recommended readings
 
