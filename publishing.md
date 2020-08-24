@@ -114,12 +114,12 @@ In this last step, you proof-read the entire paper for spelling and grammatical 
 
 In almost all cases, your article will be subject to at least one round of reviews, if not more. The overarching principle is that you must address *all* reviewer comments in one of three ways: (i) those that you agree with and you will make changes to address them (including any additional calculations/experiments as necessary), (ii) those where the reviewer clearly misunderstood something, in which case you should think hard about whether there is additional text or data you can provide to clarify it, and (c) those that you disagree with (including things that are too difficult or expensive to do for the current work). Even in the latter case, you are expected to give a thoughful response to the reviewer. Under no circumstances are you allowed to ignore any comment.
 
-1. Create a Google doc titled "Response to Reviewers on <manuscript title>" and share it with your main co-authors and PIs.
+1. Create a Google doc titled "Response to Reviewers on *manuscript title*" and share it with your main co-authors and PIs.
 2. Copy ALL comments from the reviewers into the Google doc.
-3. Section the comments in logical blocks for response.
-4. For each of the logical blocks, write a bullet point response on how you are addressing the comments. This should be highly level strategy, not detailed responses. For example, you may indicate that you will perform Calculation A or Analysis B to fill in a gap. At this juncture, you do not need to have the actual data available unless you already have it. 
+3. Section the comments in logical blocks for response. Note that this may mean you group multiple related comments from the same reviewer for response. Comments from different reviewers should not be grouped.
+4. For each logical block, write a **bullet point response** on how you are addressing the comments. This should be high-level strategy, not detailed responses. For example, you may indicate that you will perform Calculation A or Analysis B to fill in a gap. At this juncture, you do not need to have the actual data available unless you already have it.
 5. Unless it is a really straightforward response (which rarely happens), schedule a discussion with all main co-authors and the PIs to discuss the response stragegy.
-6. Once the discussion is done, implement the response strategy, including any edits to the manuscript. You may flesh out the response in the Google doc until  Do not attempt to do this step unless steps 1-5 are done or unless it is a very trivial response (e.g., just correction of typos, simple clarifications, etc., which has happened < 0.1% of the time).
+6. Once the discussion is done, implement the response strategy, including any writing out the rebuttal letter and edits to the manuscript. You may flesh out the response in the Google doc until close to the final form. Do not attempt to do this step unless steps 1-5 are done or unless it is a very trivial response (e.g., just correction of typos, simple clarifications, etc., which has happened < 0.1% of the time).
 
 ## Proofing
 
