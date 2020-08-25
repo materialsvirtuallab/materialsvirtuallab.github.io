@@ -61,6 +61,7 @@ Plots and figures are typically the most important part of your article. Many re
 * Figures should be prepared in professional software such as matplotlib or matlab or Origin. Excel figures are generally extremely poor. But they can be acceptable in certain instances if you spend the time to make them look right.
 * Learn the basics of color matching. There are simply some colors that do not go together. [Colorbrewer](http://colorbrewer2.org/) is a good resource. Know the difference between color schemes for sequential vs diverging vs qualitative data, and choose schemes that works well for the kind of data you have.
 * When using Latex, please use the subcaption package, i.e., `\begin{subfigure} ... \end{subfigure}` as indicated in our group's template to generate figures comprising multiple subfigures. You can make some basic attempt to arrange the subfigures, but there is no need to layout the subfigures nicely in a separate software during the writing stage. There is likely to be a lot of changes to the figures as we edit. Focus on generating scientifically insightful individual subfigures. The layout can be done in the penultimate version of the paper if needed.
+* A useful software for doing flow charts as well as to lay out figures is Omnigraffle. This is the software preferred by your advisor.
 
 # Writing process
 
