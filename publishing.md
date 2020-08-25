@@ -5,6 +5,8 @@ category: Guides
 permalink: /publishing/
 ---
 
+# TOC
+
 * Table of contents
 {:toc}
 
