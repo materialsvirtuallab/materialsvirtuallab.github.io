@@ -5,6 +5,9 @@ category: Guides
 permalink: /publishing/
 ---
 
+* Table of contents
+{:toc}
+
 # Introduction
 
 This repository provides MAVRL's guidelines and templates for the writing of academic journal articles.

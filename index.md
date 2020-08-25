@@ -15,7 +15,6 @@ Please note that a lot of effort has been made by Shyue Ping as well as other MA
 # Links
 <ul>
 <li><a href="https://airtable.com/shrXVPLJbBSnMH6gN">Leave of absence form</a></li>
-<li><a href="https://calendar.google.com/calendar/render#main_7">Group Calendar</a></li>
 </ul>
 
 # Guides
