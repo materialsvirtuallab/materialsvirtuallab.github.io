@@ -1,9 +1,15 @@
 ---
 layout: home
-title: Group admin
+title: Admin
 category: Guides
 permalink: /admin/
 ---
+
+
+# Table of Contents
+
+* Table of contents
+{:toc}
 
 # English as the language of science
 

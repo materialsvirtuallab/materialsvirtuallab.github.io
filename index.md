@@ -12,10 +12,6 @@ This is a collaborative guide to the [Materials Virtual Lab](www.materialsvirtua
 
 Please note that a lot of effort has been made by Shyue Ping as well as other MAVRL group members to make these resources here for your benefit. Make good use of them. In particular, all incoming students and postdocs should read at least the group admin pages to know Shyue Ping's expectations. The paper and presentation preparation guides are important as well. 
 
-# Links
-<ul>
-<li><a href="https://airtable.com/shrXVPLJbBSnMH6gN">Leave of absence form</a></li>
-</ul>
 
 # Guides
 
@@ -30,6 +26,10 @@ Please note that a lot of effort has been made by Shyue Ping as well as other MA
 {% endfor %}
 </ul>
 
+# Internal group wiki
+
+Note that not all information is available on this public guide. Some sensitive information, e.g., contact information, cluster setups, etc., are available on our group's [internal wiki](https://www.materialsvirtuallab.org/wiki).
+
 # Resources
 {% assign default_paths = site.pages | map: "path" %}
 {% assign page_paths = site.header_pages | default: default_paths %}
@@ -42,8 +42,6 @@ Please note that a lot of effort has been made by Shyue Ping as well as other MA
 {% endfor %}
 </ul>
 
-# Clusters
+# Links
 
-We have extensive resources at our own clusters at the Triton Shared Computing Service at SDSC, as well as national supercomputing resources on XSEDE and NERSC. 
-
-# Infrastructure
+* [Leave of absence form](https://airtable.com/shrXVPLJbBSnMH6gN)
