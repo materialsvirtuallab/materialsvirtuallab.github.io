@@ -5,14 +5,12 @@ category: Guides
 permalink: /publishing/
 ---
 
-# TOC
-
-* Table of contents
-{:toc}
-
 # Introduction
 
 This repository provides MAVRL's guidelines and templates for the writing of academic journal articles.
+
+* Table of contents
+{:toc}
 
 # What is good scientific writing?
 
