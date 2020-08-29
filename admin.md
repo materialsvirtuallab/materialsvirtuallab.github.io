@@ -11,9 +11,28 @@ permalink: /admin/
 * Table of contents
 {:toc}
 
-# English as the language of science
+# Communications
+
+## English as the language of science
 
 English is the language of international science and the language that is expected in all office conversations. You may use other languages for social interactions, but not for scientific discussions. It is to your benefit to practice conversing in English, whatever your comfort level is.
+
+## Timeliness and Candor
+
+The two basic principles of communications is timeliness and candor.
+
+Timeliness refers to how early that you communicate potential issues to your advisor, lab mates and collaborators. Here, it is always better to err on the side of being too early than too late. This is key to managing expectations. For instance, if you are having personal problems that would result in loss of productivity, your advisor would prefer a quick email so that he can make the necessary adjustments to cut you some slack as well as guide you to potential solutions. I assure you that it is much better to disclose such things early. There is no need to disclose deep personal details if you are not comfortable doing so. 
+
+Candor means that you should always be honest in your communications and feedback. Being polite works in social interactions but it does nothing for scientific rigor. I subscribe to radical honesty - everyone, including your advisor, lab mates, collaborators, etc., would very much prefer you say exactly what you think of the ideas, directions and quality of the work as soon as possible (related to timeliness).
+
+## Meetings
+
+Meetings are a necessary component to effective communications. That said, badly run meetings that go on forever should be avoided at all costs. In our lab, we believe in a high meeting tempo - very regular short meetings, as opposed to infrequently held long ones. Again, this is related to timeliness.
+
+As a group member, you can expect, barring special circumstances, to have an opportunity to meet with your advisor at least once a week. Here is a general overview of how meetings are done in our group:
+* Subgroup meetings are held once a week. They are as short as they need to be. You are not expected to have updates every subgroup meeting, but this is probably the most important fora to get regular and fast feedback on your research from your advisor and fellow lab mates.
+* Group meetings are held once a week. Their purpose are three-fold: (i) to discuss group-wide issues; (ii) to practice your presentation skills to a wider audience that might not be intimately familiar with the details of your research, and (iii) to seek feedback on your research and cross-pollinate ideas.
+* Collaborator meetings that involve your advisor should be held either biweekly or monthly depending on project tempo. For subgroups that relates to a specific project, these will substitute for the subgroup meeting for that given week. Nevertheless, you should make it a habit to have regular off-line communications with your collaborators, e.g., a simple exchange of email once a week to provide brief updates.
 
 # Working from home
 
