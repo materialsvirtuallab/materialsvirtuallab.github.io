@@ -27,12 +27,16 @@ Candor means that you should always be honest in your communications and feedbac
 
 ## Meetings
 
-Meetings are a necessary component to effective communications. That said, badly run meetings that go on forever should be avoided at all costs. In our lab, we believe in a high meeting tempo - very regular short meetings, as opposed to infrequently held long ones. Again, this is related to timeliness.
+Meetings are a necessary component of effective communications. That said, badly run meetings that go on forever should be avoided at all costs. In the MAVRL, we believe in a high meeting tempo - very regular short meetings, as opposed to infrequently held long ones. Again, this is related to timeliness.
 
 As a group member, you can expect, barring special circumstances (e.g., travel, exams, etc.), to have an opportunity to meet with your advisor at least once a week. Here is a general overview of how meetings are done in our group:
 * Subgroup meetings are held once a week. They are as short as they need to be. You are not expected to have updates every subgroup meeting, but this is probably the most important forum to get regular feedback on your research from your advisor and fellow lab mates.
-* Group meetings are held once a week. Their purpose are three-fold: (i) to discuss group-wide issues; (ii) to practice your presentation skills to a wider audience that might not be intimately familiar with the details of your research, and (iii) to seek feedback on your research and cross-pollinate ideas.
-* Collaborator meetings that involve your advisor should be held either biweekly or monthly depending on project tempo. For subgroups that relates to a specific project, these will substitute for the subgroup meeting for that given week. Nevertheless, you should make it a habit to have regular off-line communications with your collaborators, e.g., a simple exchange of email once a week to provide brief updates.
+* Group meetings are held once a week. Their purpose are three-fold: (i) to discuss group-wide issues (e.g., computing, infrastructure, morale, etc.); (ii) to practice your presentation skills to a wider audience that might not be intimately familiar with the details of your research, and (iii) to seek feedback on your research and cross-pollinate ideas.
+* Collaborator meetings that involve your advisor should be held either biweekly or monthly depending on project tempo. For subgroups that relates to a specific project, these will substitute for the subgroup meeting for that given week. Nevertheless, you should make it a habit to have regular off-line communications with your collaborators, e.g., a simple exchange of email once a week to provide brief updates. 
+
+## Collaborations
+
+The goal of collaboration is simple: to achieve research that is greater than the sum of the individual contributors. If this goal cannot be achieved, the collaboration is worthless. A successful collaboration requires three key ingredients: (i) a common problem of interest to all parties; (ii) complementary expertise; and (iii) regular communications (see Collaborator Meetings in the preceding section). We do not collaborate if we are not interested in a problem, if we do not have the right expertise to contribute to its solution, or if we do not require any expertise not available in our group. If we decide to collaborate, we do it right - find the best collaborators and communicate effectively.
 
 # Working from home
 
