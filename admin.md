@@ -29,8 +29,8 @@ Candor means that you should always be honest in your communications and feedbac
 
 Meetings are a necessary component to effective communications. That said, badly run meetings that go on forever should be avoided at all costs. In our lab, we believe in a high meeting tempo - very regular short meetings, as opposed to infrequently held long ones. Again, this is related to timeliness.
 
-As a group member, you can expect, barring special circumstances, to have an opportunity to meet with your advisor at least once a week. Here is a general overview of how meetings are done in our group:
-* Subgroup meetings are held once a week. They are as short as they need to be. You are not expected to have updates every subgroup meeting, but this is probably the most important fora to get regular and fast feedback on your research from your advisor and fellow lab mates.
+As a group member, you can expect, barring special circumstances (e.g., travel, exams, etc.), to have an opportunity to meet with your advisor at least once a week. Here is a general overview of how meetings are done in our group:
+* Subgroup meetings are held once a week. They are as short as they need to be. You are not expected to have updates every subgroup meeting, but this is probably the most important forum to get regular feedback on your research from your advisor and fellow lab mates.
 * Group meetings are held once a week. Their purpose are three-fold: (i) to discuss group-wide issues; (ii) to practice your presentation skills to a wider audience that might not be intimately familiar with the details of your research, and (iii) to seek feedback on your research and cross-pollinate ideas.
 * Collaborator meetings that involve your advisor should be held either biweekly or monthly depending on project tempo. For subgroups that relates to a specific project, these will substitute for the subgroup meeting for that given week. Nevertheless, you should make it a habit to have regular off-line communications with your collaborators, e.g., a simple exchange of email once a week to provide brief updates.
 
