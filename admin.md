@@ -36,7 +36,12 @@ As a group member, you can expect, barring special circumstances (e.g., travel, 
 
 ## Collaborations
 
-The goal of collaboration is simple: to achieve research that is greater than the sum of the individual contributors. If this goal cannot be achieved, the collaboration is worthless. A successful collaboration requires three key ingredients: (i) a common problem of interest to all parties; (ii) complementary expertise; and (iii) regular communications (see Collaborator Meetings in the preceding section). We do not collaborate if we are not interested in a problem, if we do not have the right expertise to contribute to its solution, or if we do not require any expertise not available in our group. If we decide to collaborate, we do it right - find the best collaborators and communicate effectively.
+The goal of collaboration is simple: to achieve research that is greater than the sum of the individual contributors. If this goal cannot be achieved, the collaboration is worthless. A successful collaboration requires three key ingredients: 
+1. A common problem of interest to all parties; 
+2. Complementary expertise; and 
+3. Regular communications (see Collaborator Meetings in the preceding section). 
+
+We do not collaborate if we are not interested in a problem, if we do not have the right expertise to contribute to its solution, or if we do not require any expertise not available in our group. If we decide to collaborate, we do it right - find the best collaborators and communicate effectively.
 
 # Working from home
 
