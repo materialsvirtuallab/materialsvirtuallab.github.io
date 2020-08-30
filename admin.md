@@ -32,18 +32,19 @@ Meetings are a necessary component of effective communications. That said, badly
 As a group member, you can expect, barring special circumstances (e.g., travel, exams, etc.), to have an opportunity to meet with your advisor at least once a week. Here is a general overview of how meetings are done in our group:
 * Subgroup meetings are held once a week. They are as short as they need to be. You are not expected to have updates every subgroup meeting, but this is probably the most important forum to get regular feedback on your research from your advisor and fellow lab mates.
 * Group meetings are held once a week. Their purpose are three-fold: (i) to discuss group-wide issues (e.g., computing, infrastructure, morale, etc.); (ii) to practice your presentation skills to a wider audience that might not be intimately familiar with the details of your research, and (iii) to seek feedback on your research and cross-pollinate ideas.
-* Collaborator meetings that involve your advisor should be held either biweekly or monthly depending on project tempo. For subgroups that relates to a specific project, these will substitute for the subgroup meeting for that given week. Nevertheless, you should make it a habit to have regular off-line communications with your collaborators, e.g., a simple exchange of email once a week to provide brief updates. 
+* Collaborator meetings that involve your advisor should be held either biweekly or monthly depending on project tempo. For subgroups that relates to a specific project, these will substitute for the subgroup meeting for that given week. Nevertheless, you should make it a habit to have regular off-line communications with your collaborators, e.g., a simple exchange of email once a week to exchange brief updates on what each of you is doing and what you can do to help each other (data exchange, etc.).
+* 1-on-1 meetings to discuss your overall progress will be held every quarter. You can also request ad-hoc meetings as needed if there are things you need to discuss urgently (see timeliness in the preceding section). 
 
 ## Collaborations
 
 The goal of collaboration is simple: **to achieve research that is greater than the sum of the individual contributors**. If this goal cannot be achieved, the collaboration is worthless. A successful collaboration requires three key ingredients: 
-1. A common problem of interest to all parties; 
-2. Complementary expertise; and 
+1. A common problem of interest to all parties
+2. Complementary expertise
 3. Regular communications (see Collaborator Meetings in the preceding section). 
 
 We do not collaborate if we are not interested in a problem, if we do not have the right expertise to contribute to its solution, or if we do not require any expertise not available in our group. If we decide to collaborate, we do it right - find the best collaborators and communicate effectively.
 
-Note that a collaboration that is a simple sum of the individual components is not considered an effective one. For example, if an experimental group asks us for a calculation and all you do is to just perform the requested calculation without deeper thought, that is not true collaboration. Our group has no interest in being simply the computational arm of another research group - your advisor does not care even if that collaboration is one that potentially generates a high impact factor paper. We care about doing great science and generating original ideas. You should understand deeply what is the real question the potential collaborator is asking and what is the most insightful answer you can give. It is even better if your insights lead the collaborator to explore additional areas he did not think of.
+Note that a collaboration that is just a simple sum of the individual components is not considered an effective one. For example, if an experimental group asks us for a calculation and all you do is to just perform the requested calculation without deeper thought, that is a non-value-added collaboration. Our group has no interest in being simply a computational drone for another group - your advisor does not care even if that collaboration is one that potentially generates a high impact factor paper. We care about doing great science and generating *original* ideas. Take the effort to understand the research problem and provide the most insightful solution possible (within reasonable resource constraints). The best type of collaboration is when the collaborator and us provides each other with insights that generate new directions for exploration.
 
 # Working from home
 
