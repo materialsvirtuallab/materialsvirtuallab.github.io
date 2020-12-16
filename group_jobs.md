@@ -19,6 +19,6 @@ As a MAVRL group member, you are expected to carry out your group job in a profe
 | Backup Manager   | - Manages Dropbox and Crashplan backup for all users.<br>- Ensure backup for database and file server systems.<br>- Guides new users in performing backups (note that each member is responsible for performing his own backup, except for the database, which will be backed up by the overall manager)     | Yiming
 | Meeting Manager  | - Sets up the group meeting schedule and do the necessary admin (booking of rooms, etc.)<br>- Maintains the group calendars MAVRL, MAVRL Class and MAVRL Travel.<br>- Performs hardware purchases and service (laptops, monitors, etc.)     | Yunxing
 | Software Manager | - Master Github repo manager for the materialsvirtuallab organization (adds/deletes users, guide setup for new users, etc.)<br>- Maintain group software licenses (VASP, Pycharm, etc.).     | Manas
-| Web Manager      | - Maintains the group's public website and private wiki.<br>- Adds users as needed.<br>- Ensures both sites are up to date.     | Richard
+| Web Manager      | - Maintains the group's public website and private wiki.<br>- Adds users as needed.<br>- Ensures both sites are up to date.     | Jasleen
 | Morale Manager   | - Organizes social activities.<br>- Ensures health and morale of group members.<br>- Buys equipment for group use and meetings such as USB cables and snacks/coffee.     | Xingyu
 
